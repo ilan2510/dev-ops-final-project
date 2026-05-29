@@ -6,9 +6,9 @@
 </head>
 <body>
 
-    <input type="text" placeholder="Type something..." />
+    <input type="text" placeholder="Type ..." />
 
-    <button>Click Me</button>
+    <button>Click Me!!!</button>
 
     <br/><br/>
 
