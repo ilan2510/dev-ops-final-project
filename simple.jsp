@@ -14,7 +14,7 @@
 
     <br/>
 
-    <a href="/home">Go to Home</a>
+    <a href="https://www.tau.ac.il" target="_blank">GO TO HOME</a>
 
     <script>
         function sayHello() {
